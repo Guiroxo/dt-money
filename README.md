@@ -14,7 +14,7 @@ Financial control project
 # Starting
 ```bash
 # Clone this project
-$ git clone https://github.com/davi1985/dtmoney
+$ git clone https://github.com/guiroxo/dtmoney
 
 # Access
 $ cd dtmoney
